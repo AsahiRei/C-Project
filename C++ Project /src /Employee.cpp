@@ -1,5 +1,7 @@
+//coded by Arn
 #include <iostream>
 using namespace std;
+//utility functions
 class Auxiliary {
     private:
         string name;
